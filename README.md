@@ -9,32 +9,11 @@
 
 # Herri Voigt 👋
 
-🎓 Estudante de **Ciência da Computação na FURB**  
-📍 Brasil  
-🎂 18 anos  
+Tenho 18 anos e sou estudante de **Ciência da Computação na FURB**. Tenho grande interesse por tecnologia, programação e pela forma como os sistemas computacionais funcionam. Atualmente estou desenvolvendo minhas habilidades em **lógica de programação e Java**, além de aprender a utilizar ferramentas importantes para desenvolvimento como **Git e GitHub**.
 
-Sou um estudante apaixonado por **tecnologia, programação e resolução de problemas**.  
-Tenho interesse em entender como os sistemas funcionam e desenvolver soluções através da programação.
+Gosto de estudar e compreender como a programação pode ser usada para resolver problemas e criar soluções úteis. Durante a graduação venho buscando aprimorar constantemente meus conhecimentos em computação, algoritmos e desenvolvimento de software.
 
-## 🚀 Interesses
-- Programação e desenvolvimento de software
-- Lógica de programação
-- Ciência e tecnologia
-- Aprendizado contínuo
-
-## 💻 Tecnologias em aprendizado
-- Java
-- Git e GitHub
-- Lógica de programação
-- Estruturas básicas de algoritmos
-
-## 📚 Atualmente estudando
-- Programação em Java
-- Fundamentos de computação
-- Desenvolvimento de projetos acadêmicos
-
-## 🎯 Objetivo
-Desenvolver minhas habilidades em programação e tecnologia, contribuindo futuramente para projetos de software e inovação tecnológica.
+Este perfil reúne alguns dos projetos e exercícios que desenvolvo durante meus estudos, servindo como um espaço para acompanhar minha evolução na área de tecnologia e programação.
 
 </td>
 </tr>
